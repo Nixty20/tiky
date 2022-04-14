@@ -1,0 +1,30 @@
+{
+  "storyName": "Tricky Kaboom w/Demoman",
+  "hideFreeplay": false,
+  "weekBackground": "vand",
+  "weekBefore": "tutorial",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": true,
+  "weekCharacters": [
+    "gabe",
+    "bf",
+    "gf"
+  ],
+  "songs": [
+    [
+      "Kaboom",
+      "demoman",
+      [
+        126,
+        0,
+        133
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekName": "kaboom"
+}
